@@ -36,21 +36,6 @@ I am particularly interested in how **data products, governance, and analytics o
 
 ---
 
-## Professional background
-
-### Marsh Services Ltd. — London  
-**Senior Business Data Analyst (Vice President)**  
-*Apr 2025 – Present*  
-
-**Business Data Analyst (Assistant Vice President)**  
-*Apr 2023 – Mar 2025*
-
-I lead analytics and data strategy for Marsh’s **Credit, Political and Security Risk** businesses, supporting global leadership, sales teams, and underwriters.
-
- **Vice President** following the delivery of multiple global data initiatives and received the **Marsh UK Accelerator Impact Award** for change management and system adoption.
-
----
-
 ## About this GitHub
 
 The repositories here are used to:
